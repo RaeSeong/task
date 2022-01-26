@@ -1,0 +1,16 @@
+{
+  "name": "work1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+   "dependencies": {
+    "qs": "^6.9.3",
+    "uWebSockets.js": "github:uNetworking/uWebSockets.js#v18.3.0",
+    "ws": "^7.2.3"
+  }
+}
